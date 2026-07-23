@@ -1,5 +1,5 @@
 
-  <img src="public/assets/images/Screenshot 2026-07-23 074229.png" alt="Website Fullpage Preview" width="100%">
+  <img src="public/assets/images/app_logo.png" alt="Website Fullpage Preview" width="100%">
 
 ## 🚀 Features
 
