@@ -1,12 +1,14 @@
 
 
-<img src="ss full page preview.png" alt="Website Fullpage Preview" width="100%">
+
 
 ## 🚀 Features
 
 - **Next.js 15** - Latest version with improved performance and features
 - **React 19** - Latest React version with enhanced capabilities
 - **Tailwind CSS** - Utility-first CSS framework for rapid UI development
+
+  <img src="public/assets/images/Screenshot 2026-07-23 074229.png" alt="Website Fullpage Preview" width="100%">
 
 ## 🛠️ Installation
 
