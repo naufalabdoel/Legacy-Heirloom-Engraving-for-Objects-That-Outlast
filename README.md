@@ -1,6 +1,6 @@
-# Next.js
 
-A modern Next.js 15 application built with TypeScript and Tailwind CSS.
+
+<img src="ss full page preview.png" alt="Website Fullpage Preview" width="100%">
 
 ## 🚀 Features
 
