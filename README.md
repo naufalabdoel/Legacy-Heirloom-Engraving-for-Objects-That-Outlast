@@ -7,8 +7,11 @@
 - **React 19** - Latest React version with enhanced capabilities
 - **Tailwind CSS** - Utility-first CSS framework for rapid UI development
 
+...
+
   <img src="public/assets/images/Screenshot 2026-07-23 074229.png" alt="Website Fullpage Preview" width="100%">
 
+...
 ## 🛠️ Installation
 
 1. Install dependencies:
